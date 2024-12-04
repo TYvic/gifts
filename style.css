@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+.indie-flower-regular {
+    font-family: "Indie Flower", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.sedgwick-ave-display-regular {
+    font-family: "Sedgwick Ave Display", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  
+
+body{
+    background-color: rgb(34, 34, 34);
+    margin: auto;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    padding: 20px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    font-family: "Sedgwick Ave Display", cursive;
+    text-align: center;
+    color: antiquewhite;
+}
+
+main {
+    min-width: 300px;
+    max-width: 800px;
+    margin: auto;
+    margin-bottom: 30px;
+    padding: 50px;
+
+
+}
+
+section {
+    background-color: aliceblue;
+    font-family: "Indie Flower", cursive;
+    padding: 25px;
+    font-size: 20px;
+
+}
